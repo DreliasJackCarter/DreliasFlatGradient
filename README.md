@@ -5,7 +5,7 @@ I always wanted a perfectly flat linear gradient for my PS1 looking projects. Bu
 ![Bad skybox] (Preview/BadSkybox.png)
 
 This shader simply generates a gradient and slides it vertically according to camera angle.
-![Animated preview] (Preview/Preview.gif)
+![Animated preview] (https://github.com/DreliasJackCarter/DreliasFlatGradient/blob/main/Preview/Preview.gif)
 
 With a minimalistic amount of parameters :
 ![Parameters] (Preview/Inspector.png)
